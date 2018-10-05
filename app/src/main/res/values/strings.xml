@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ACTV_Oct9am</string>
+    <string-array name="countries">
+        <item>Australia</item>
+        <item>India</item>
+        <item>Indonasia</item>
+        <item>Canada</item>
+        <item>China</item>
+        <item>Brazil</item>
+    </string-array>
+    <string name="ecn">Enter Country Name</string>
+</resources>
